@@ -13,7 +13,7 @@
 
 ## 일반적인 교육에서의 활용 방법 및 사례
 
-1. ChatGPT에게 직접 물어보았다. (Feb 25, 2023)
+### ChatGPT에게 직접 물어보았다. (Feb 25, 2023)
 
 **질문: “How to use ChatGPT in Education?”**
 
@@ -39,3 +39,8 @@ ChatGPT를 교육에 사용할 수 있는 다양한 방법이 있으며 그 중 
 * **접근성**: ChatGPT는 장애가 있는 학생들이 교육에 더 쉽게 접근할 수 있도록 도와줍니다. 텍스트 음성 변환 기능을 제공하고, 질문에 답하고, 작업에 대한 피드백을 제공할 수도 있습니다.
 
 전반적으로 ChatGPT는 교육에서 가치 있는 도구가 될 수 있으며, 학생들에게 개인화된 지원을 제공하고 보다 효과적으로 학습하도록 돕습니다.
+
+### OpenAI의 의견 (Feb 2022)
+
+Educator considerations for ChatGPT 
+[(https://platform.openai.com/docs/chatgpt-education)](https://platform.openai.com/docs/chatgpt-education)
