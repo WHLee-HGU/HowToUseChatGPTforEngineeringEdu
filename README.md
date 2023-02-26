@@ -16,6 +16,7 @@
 ### ChatGPT에게 직접 물어보았다. (Feb 25, 2023)
 
 **질문: “How to use ChatGPT in Education?”**
+
 **응답 (국문번역은 아래에)**
 * There are a variety of ways in which ChatGPT can be used in education, some of which include:
 * **Personalized learning**: ChatGPT can be used to provide personalized learning experiences to students. It can answer their questions, provide them with feedback, and suggest resources that match their learning style and pace.
@@ -26,6 +27,7 @@
 * **Accessibility**: ChatGPT can help make education more accessible for students with disabilities. It can provide them with text-to-speech capabilities, answer their questions, and even provide feedback on their work.
 * Overall, ChatGPT can be a valuable tool in education, providing students with personalized support and helping them to learn more effectively.
 ChatGPT를 교육에 사용할 수 있는 다양한 방법이 있으며 그 중 일부는 다음과 같습니다.
+
 * **맞춤형 학습**: ChatGPT를 사용하여 학생들에게 맞춤형 학습 경험을 제공할 수 있습니다. 질문에 답하고 피드백을 제공하며 학습 스타일과 속도에 맞는 리소스를 제안할 수 있습니다.
 * **숙제 및 과제 지원**: ChatGPT를 사용하여 학생들의 숙제 및 과제를 도울 수 있습니다. 개념을 이해하고 문제를 해결하는 데 도움이 되는 설명, 예 및 팁을 제공할 수 있습니다.
 * **학습 지원**: ChatGPT는 학생들을 위한 학습 지원으로 사용할 수 있습니다. 과목과 관련된 질문에 답하고 시험 준비에 도움이 되는 학습 가이드, 비디오 및 기사와 같은 리소스를 제공할 수 있습니다.
