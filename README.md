@@ -2,6 +2,7 @@
 # ChatGPT를 활용한 교육방법에 대한 Study 및 사례 모음집
 
 > **"One way to deal with that is to ban iPhones. Another way to do it is to make the class interesting.”** - Noam Chomsky
+
 > **“학생들이 수업 시간에 스마트폰을 보는 것을 막기 위해 스마트폰 사용을 금지하는 방법이 있고 다른 하나는 스마트폰을 볼 생각이 들지 않을 정도로 수업을 충분히 재미있게 만드는 방법이 있다.”** - Noam Chomsky
 
 * Chomsky’s solution for a functioning educational system in the age of ChatGPT is an interesting educational program with motivated students.
