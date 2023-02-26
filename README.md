@@ -43,4 +43,5 @@ ChatGPT를 교육에 사용할 수 있는 다양한 방법이 있으며 그 중 
 ### OpenAI의 의견 (Feb 2022)
 
 Educator considerations for ChatGPT 
-[(https://platform.openai.com/docs/chatgpt-education)](https://platform.openai.com/docs/chatgpt-education)
+
+[원글 링크: https://platform.openai.com/docs/chatgpt-education](https://platform.openai.com/docs/chatgpt-education)
