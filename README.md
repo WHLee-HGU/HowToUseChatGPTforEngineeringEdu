@@ -3,7 +3,9 @@
 
 > **"One way to deal with that is to ban iPhones. Another way to do it is to make the class interesting.”** - Noam Chomsky
 
-Chomsky’s solution for a functioning educational system in the age of ChatGPT is an interesting educational program with motivated students. (Feb 13, 2023, [link](https://the-decoder.com/chatgpt-is-high-tech-plagiarism-for-lazy-learners-says-noam-chomsky/))
+* Chomsky’s solution for a functioning educational system in the age of ChatGPT is an interesting educational program with motivated students.
+* ChatGPT 시대의 제대로 작동하는 교육 시스템을 위한 Chomsky의 솔루션은 **동기 부여**가 된 학생들이 참여하는 **흥미로운** 교육 프로그램입니다.
+* https://the-decoder.com/chatgpt-is-high-tech-plagiarism-for-lazy-learners-says-noam-chomsky/ (Feb 13, 2023)
 
 ## Intro
 본 문서는 다음의 목적을 가지고 있다.
