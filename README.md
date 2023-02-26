@@ -276,7 +276,7 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 **해외**
 
 #### My class required AI. Here's what I've learned so far. (블로그, Feb 17, 2023)
-* 마냥 긍정적 활용 사례는 아니지만 수업에서 적극적 활용한 사례로 긍정적인 면이 부각되었다고 판단됨
+* 수업에서 적극적 활용한 사례로 학생들을 잘 훈련시켜 ChatGPT를 사용하게 하면 긍정적인 면이 크다고 평가
 * https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive?fbclid=IwAR04j-pO1I3ee-GvQc_nSzffBWvVwm8nWLW6EJfWH1XrMc38VYousHLdlIE
 * "it has been very successful, but there are some lessons to be learned"
 * 수업 시간에 policy와 주의점을 미리 설명하였음
