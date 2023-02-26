@@ -11,7 +11,7 @@
 
 ## ChatGPT란?
 
-개념 설명 자료는 생략한다. (필요한 경우 별도의 GitHub 페이지를 활용할 예정)
+ChatGPT에 대한 기본적인 내용 및 관련 자료 수집은 별도의 GitHub 웹사이트([링크](https://github.com/WHLee-HGU/ChatGPTScrap)에서 정리 중입니다.
 
 ## 일반적인 교육에서의 활용 방법 및 사례
 
