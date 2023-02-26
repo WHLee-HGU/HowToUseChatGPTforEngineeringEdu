@@ -3,6 +3,12 @@
 
 특정 의견의 경우는 괄호()로 표시해 두었음
 
+
+## .
+
+“One way to deal with that is to ban iPhones. Another way to do it is to make the class interesting.” - Noam Chomsky
+
+
 ## Intro
 본 문서는 다음의 목적을 가지고 있다.
 1. ChatGPT를 공학분야(대학) 교육에 어떻게 활용할 수 있을지에 대해 자료를 수집
