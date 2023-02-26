@@ -1,11 +1,9 @@
+
 # ChatGPT를 활용한 교육방법에 대한 Study 및 사례 모음집
-2023-1학기 내용 및 공학교육(대학교)을 중심으로
 
-특정 의견의 경우는 괄호()로 표시해 두었음
+> **"One way to deal with that is to ban iPhones. Another way to do it is to make the class interesting.”** - Noam Chomsky
 
-
-**“One way to deal with that is to ban iPhones. Another way to do it is to make the class interesting.”** - *Noam Chomsky
-
+Chomsky’s solution for a functioning educational system in the age of ChatGPT is an interesting educational program with motivated students. (Feb 13, 2023, [link](https://the-decoder.com/chatgpt-is-high-tech-plagiarism-for-lazy-learners-says-noam-chomsky/))
 
 ## Intro
 본 문서는 다음의 목적을 가지고 있다.
@@ -13,7 +11,7 @@
 2. 실제 2023-1학기 수업을 진행하며 겪은 노하우 공유
 3. 이후 공학교육에 어떻게 활용할 수 있을지에 대해 논의
 
-
+특정 의견의 경우는 괄호()로 표시해 두었음
 
 
 ## ChatGPT란?
