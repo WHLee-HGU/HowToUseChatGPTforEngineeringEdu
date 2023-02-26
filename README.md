@@ -255,7 +255,7 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 
 **해외**
 
-### ChatGPT **banned** from New York City public schools’ devices and networks (기사, Jan 6, 2023)
+#### ChatGPT **banned** from New York City public schools’ devices and networks (기사, Jan 6, 2023)
 * https://www.nbcnews.com/tech/tech-news/new-york-city-public-schools-ban-chatgpt-devices-networks-rcna64446
 * New York City's Department of Education announced a ban on the wildly popular chatbot ChatGPT — which some have warned could inspire more student cheating — from its schools’ devices and networks.
 * * "While the tool may be able to provide quick and easy answers to questions, it does not build critical-thinking and problem-solving skills, which are essential for academic and lifelong success," Lyle said in a email statement.
@@ -265,7 +265,7 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 * https://www.abc.net.au/news/2023-01-30/chatgpt-to-be-banned-from-wa-public-schools-amid-cheating-fears/101905616
 * WA is the latest Australian jurisdiction to ban ChatGPT, following New South Wales, Queensland, and Tasmania.
 
-### ChatGPT banned in some schools, but many experts say it can improve education (기사, Feb 7, 2023)
+#### ChatGPT banned in some schools, but many experts say it can improve education (기사, Feb 7, 2023)
 * https://cosmosmagazine.com/technology/chatgpt-ban-in-schools/
 * 지난 주 서호주와 빅토리아주 공립학교는 학생들이 학교에 있는 동안 ChatGPT 사용을 전면 금지하기 위해 뉴사우스웨일즈, 퀸즐랜드, 태즈매니아에 합류했습니다. 이것은 ChatGPT가 미국, 프랑스 및 인도의 학군에서 금지되었기 때문에 나온 것입니다.
 
@@ -275,7 +275,7 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 
 **해외**
 
-### My class required AI. Here's what I've learned so far. (블로그, Feb 17, 2023)
+#### My class required AI. Here's what I've learned so far. (블로그, Feb 17, 2023)
 * 마냥 긍정적 활용 사례는 아니지만 수업에서 적극적 활용한 사례로 긍정적인 면이 부각되었다고 판단됨
 * https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive?fbclid=IwAR04j-pO1I3ee-GvQc_nSzffBWvVwm8nWLW6EJfWH1XrMc38VYousHLdlIE
 * "it has been very successful, but there are some lessons to be learned"
