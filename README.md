@@ -42,6 +42,24 @@ ChatGPT를 교육에 사용할 수 있는 다양한 방법이 있으며 그 중 
 
 ### OpenAI의 의견 (Feb 2022)
 
-Educator considerations for ChatGPT 
+원글 제목: Educator considerations for ChatGPT [링크: https://platform.openai.com/docs/chatgpt-education](https://platform.openai.com/docs/chatgpt-education)
 
-[원글 링크: https://platform.openai.com/docs/chatgpt-education](https://platform.openai.com/docs/chatgpt-education)
+아래는 해당 블로그의 내용 중 일부만 발췌
+
+**간소화되고 개인화된 교육으으로 활용**
+
+예시
+
+* 수업 계획 및 기타 활동을 위한 초안 작성 및 브레인스토밍
+* 퀴즈 질문 또는 기타 연습 문제 설계에 도움
+* 맞춤형 튜터링 도구 실험
+* 선호도에 따라 자료 맞춤화(언어 단순화, 다양한 읽기 수준에 맞게 조정, 다양한 관심사에 맞는 맞춤형 활동 만들기)
+* 글의 일부에 대한 문법적 또는 구조적 피드백 제공
+* 쓰기 및 코딩과 같은 영역에서 기술 향상 활동에 사용(코드 디버깅, 쓰기 수정, 설명 요청)
+* 비판 AI 생성 텍스트
+
+위의 몇 가지 사항은 ChatGPT의 개인화 도구로서의 잠재력을 활용하지만, 학생 개인 정보 보호, 편향된 대우, 건강에 해로운 습관 개발을 포함하여 이러한 개인화와 관련된 위험도 있습니다. 학생이 직접적인 감독 없이 이러한 서비스를 제공하는 도구를 사용하기 전에 학생과 교육자는 아래에 설명된 도구의 제한 사항을 이해해야 합니다.
+
+마찬가지로 교사가 과제를 작성하거나 학생 에세이에 의견을 제공하는 데 도움이 되는 모델을 얻는 데 성공했다고 보고했지만 ChatGPT는 그 자체로 평가 도구로 신뢰되어서는 안 됩니다. 오히려 교사는 입력과 출력을 모두 신중하게 검토하고 사용 정책에 설명된 대로 AI 시스템을 사용하거나 의존한 위치를 공개해야 합니다.
+
+** Truthfulness
