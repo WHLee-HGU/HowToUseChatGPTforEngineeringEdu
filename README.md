@@ -13,7 +13,7 @@
 
 ## 일반적인 교육에서의 활용 방법 및 사례
 
-### ChatGPT에게 직접 물어보았다. (Feb 25, 2023)
+1. ChatGPT에게 직접 물어보았다. (Feb 25, 2023)
 
 **질문: “How to use ChatGPT in Education?”**
 
