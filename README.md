@@ -9,6 +9,9 @@
 2. 실제 2023-1학기 수업을 진행하며 겪은 노하우 공유
 3. 이후 공학교육에 어떻게 활용할 수 있을지에 대해 논의
 
+
+
+
 ## ChatGPT란?
 
 ChatGPT에 대한 기본적인 내용 및 관련 자료 수집은 별도의 GitHub 웹사이트([링크)](https://github.com/WHLee-HGU/ChatGPTScrap)에서 정리 중입니다.
@@ -21,6 +24,23 @@ ChatGPT에 대한 기본적인 내용 및 관련 자료 수집은 별도의 GitH
 * ‘챗GPT’ 유료 100만 돌파…우리 기업도 상반기 초거대 AI 출시 / 2023.02.17 뉴스9 / 김유대 기자
 * “살인바이러스 개발” AI 채팅 논란…대리작성에 학계도 비상 / 2023.02.17 뉴스9 / 조정인 기자
 * “챗GPT 열풍을 기회로”…국내 반도체 산업 재도약할까 / 2023.02.20 뉴스7 / 신지수 기자
+
+### "20초 만에…" 초긴장, 대학생들도 술렁인다 / SBS / 모아보는 뉴스 (SBS 뉴스 모음,  Feb 18, 2023)
+* https://youtu.be/fBtnlO45hw8
+* 위 링크에는 아래 3가지 뉴스 들을 하나의 영상으로 모아놓은 것
+* 기자는 반나절, 챗GPT는 20초?…정말 팩트체크 됐을까 (ChatGPT와 윤리)
+* '챗GPT' 시대 도래…"이젠 발달하는 뇌 부위가 달라질 것" (ChatGPT와 뇌과학)
+* 막을 수도, 권할 수도…챗GPT 두고 대학가 '술렁' (
+
+### Students who spoke to the ABC last week (Jan 26, 2023) had a mixed view on ChatGPT
+* https://www.abc.net.au/news/2023-01-26/chatgpt-sparks-cheating-ethical-concerns-in-schools-universities/101888440
+* 'Helpful for initial draft': student guild '초기 드래프트에 도움이 됨'
+* 'Tertiary experience' at risk 위험에 처한 '3차 경험'
+* Embrace technology: headmaster
+* Cheating concerns downplayed 부정 행위 우려 경시
+
+
+
 
 ## 일반적인 교육에서의 활용 방법 및 사례
 
@@ -211,7 +231,26 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 * https://www.mk.co.kr/news/contributors/10657265 (매일경제)
 
 
+#### '알고리즘 분석' 과목에서 자신이 짠 코드와 ChatGPT의 결과를 비교하게 시킬 것 (Feb 27, 2023)
+* 이원형 한동대 전산및전자공학부 교수
+* 추가로 ChatGPT가 만든 문서를 나누어주고, 수업시간에서만 다룬 내용과 다른 점과 빠진 점 등을 찾아보게 하는 과제도 구상 중
+* (제가 본 GitHub 작성자라서 제 계획도 넣어보았습니다. ㅎㅎ)
+
 **해외**
+
+### ChatGPT **banned** from New York City public schools’ devices and networks (기사, Jan 6, 2023)
+* https://www.nbcnews.com/tech/tech-news/new-york-city-public-schools-ban-chatgpt-devices-networks-rcna64446
+* New York City's Department of Education announced a ban on the wildly popular chatbot ChatGPT — which some have warned could inspire more student cheating — from its schools’ devices and networks.
+* * "While the tool may be able to provide quick and easy answers to questions, it does not build critical-thinking and problem-solving skills, which are essential for academic and lifelong success," Lyle said in a email statement.
+* "이 도구는 질문에 대한 빠르고 쉬운 답변을 제공할 수 있지만 학업 및 평생 성공에 필수적인 비판적 사고 및 문제 해결 기술을 구축하지는 않습니다."라고 Lyle은 이메일 성명에서 말했습니다.
+
+#### ChatGPT **banned** in WA public schools in time for start of school year (기사, Jan 30, 2023)
+* https://www.abc.net.au/news/2023-01-30/chatgpt-to-be-banned-from-wa-public-schools-amid-cheating-fears/101905616
+* WA is the latest Australian jurisdiction to ban ChatGPT, following New South Wales, Queensland, and Tasmania.
+
+### ChatGPT banned in some schools, but many experts say it can improve education (기사, Feb 7, 2023)
+* https://cosmosmagazine.com/technology/chatgpt-ban-in-schools/
+* 지난 주 서호주와 빅토리아주 공립학교는 학생들이 학교에 있는 동안 ChatGPT 사용을 전면 금지하기 위해 뉴사우스웨일즈, 퀸즐랜드, 태즈매니아에 합류했습니다. 이것은 ChatGPT가 미국, 프랑스 및 인도의 학군에서 금지되었기 때문에 나온 것입니다.
 
 ### 긍정적 활용 사례
 
