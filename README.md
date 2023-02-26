@@ -175,6 +175,7 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 
 
 ### YouTube 채널 Joma Tech의 의견, "The future of software engineers with ChatGPT" (Feb 13, 2023)
+* 아래 링크 영상 ("A recap of ChatGPT | tech news")의 한 챕터
 * https://youtu.be/WVct5y3hBEg?t=756
 * (ChatGPT로 요약 후 구글번역한 것입니다.)
 * 비디오에서 발표자는 소프트웨어 엔지니어가 작업을 지원하는 ChatGPT 및 GitHub Copilot과 같은 AI 도구에 위협을 느껴서는 안 된다고 제안합니다. 대신 이러한 도구를 작업 흐름에 통합하여 소프트웨어 엔지니어링의 지루한 측면을 제거하고 더 어려운 작업에 집중해야 합니다. 발표자는 엔지니어가 자신의 기술과 AI 도구의 기능을 결합하여 공생 관계를 만들어 사이보그가 되어야 한다고 제안합니다.
