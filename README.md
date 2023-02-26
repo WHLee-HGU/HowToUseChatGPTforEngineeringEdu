@@ -36,7 +36,7 @@ ChatGPT에 대한 기본적인 내용 및 관련 자료 수집은 별도의 GitH
 * 위 링크에는 아래 3가지 뉴스 들을 하나의 영상으로 모아놓은 것
 * 기자는 반나절, 챗GPT는 20초?…정말 팩트체크 됐을까 (ChatGPT와 윤리)
 * '챗GPT' 시대 도래…"이젠 발달하는 뇌 부위가 달라질 것" (ChatGPT와 뇌과학)
-* 막을 수도, 권할 수도…챗GPT 두고 대학가 '술렁' (
+* 막을 수도, 권할 수도…챗GPT 두고 대학가 '술렁' (대학가 '혼란'도)
 
 ### Students who spoke to the ABC last week (Jan 26, 2023) had a mixed view on ChatGPT
 * https://www.abc.net.au/news/2023-01-26/chatgpt-sparks-cheating-ethical-concerns-in-schools-universities/101888440
