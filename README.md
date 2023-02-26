@@ -4,9 +4,7 @@
 특정 의견의 경우는 괄호()로 표시해 두었음
 
 
-## .
-
-“One way to deal with that is to ban iPhones. Another way to do it is to make the class interesting.” - Noam Chomsky
+## “One way to deal with that is to ban iPhones. Another way to do it is to make the class interesting.” - Noam Chomsky
 
 
 ## Intro
