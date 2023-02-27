@@ -222,7 +222,7 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 
 ## 공학 교육에서 활용 사례
 
-### 사례(긍정/부정으로 나뉘지 않는 일반적인 내용)
+### 적극적 활용 사례 (긍정적/부정적 평가는 추후에 업데이트)
 
 **국내**
 
@@ -255,6 +255,30 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 
 **해외**
 
+#### My class required AI. Here's what I've learned so far. (블로그, Feb 17, 2023)
+* 수업에서 적극적 활용한 사례로 학생들을 잘 훈련시켜 ChatGPT를 사용하게 하면 긍정적인 면이 크다고 평가
+* https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive?fbclid=IwAR04j-pO1I3ee-GvQc_nSzffBWvVwm8nWLW6EJfWH1XrMc38VYousHLdlIE
+* "it has been very successful, but there are some lessons to be learned"
+* 수업 시간에 policy와 주의점을 미리 설명하였음
+* 주의사항을 대략 정리하면, 1) 입력을 대충하면 결과도 별로다. 2) 결과를 다 믿지는 마라. 3) AI 사용했다는 것을 밝히고 입력을 뭐라고 썼는지 첨부할 것. 4) 아무렇게나 가져다 쓰지 마라
+* "훈련이 안된 상태에서는, 모두가 AI를 잘못이용했다." (<- 여기에 대해서는 본문을 정독할 필요가 있겠다.)
+* "학생들은 AI의 정확도, 신뢰도, 편향 이슈와 우려에 대해 생각보다 빨리 이해했다."
+
+
+
+
+### 금지 사례 또는 부작용
+
+**국내**
+
+#### ChatGPT로 영문에세이 과제 대필, 전원 0점 (기사, Feb 9, 2023)
+* 국내 수도권의 한 국제학교 사례
+* [기사링크](https://www.donga.com/news/Society/article/all/20230209/117801590/1)
+
+
+
+**해외**
+
 #### ChatGPT **banned** from New York City public schools’ devices and networks (기사, Jan 6, 2023)
 * https://www.nbcnews.com/tech/tech-news/new-york-city-public-schools-ban-chatgpt-devices-networks-rcna64446
 * New York City's Department of Education announced a ban on the wildly popular chatbot ChatGPT — which some have warned could inspire more student cheating — from its schools’ devices and networks.
@@ -269,30 +293,6 @@ OpenAI 블로그 글 소개이므로, 본 문서의 해당 내용 참고 ([링�
 * https://cosmosmagazine.com/technology/chatgpt-ban-in-schools/
 * 지난 주 서호주와 빅토리아주 공립학교는 학생들이 학교에 있는 동안 ChatGPT 사용을 전면 금지하기 위해 뉴사우스웨일즈, 퀸즐랜드, 태즈매니아에 합류했습니다. 이것은 ChatGPT가 미국, 프랑스 및 인도의 학군에서 금지되었기 때문에 나온 것입니다.
 
-### 긍정적 활용 사례
-
-**국내**
-
-**해외**
-
-#### My class required AI. Here's what I've learned so far. (블로그, Feb 17, 2023)
-* 수업에서 적극적 활용한 사례로 학생들을 잘 훈련시켜 ChatGPT를 사용하게 하면 긍정적인 면이 크다고 평가
-* https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive?fbclid=IwAR04j-pO1I3ee-GvQc_nSzffBWvVwm8nWLW6EJfWH1XrMc38VYousHLdlIE
-* "it has been very successful, but there are some lessons to be learned"
-* 수업 시간에 policy와 주의점을 미리 설명하였음
-* 주의사항을 대략 정리하면, 1) 입력을 대충하면 결과도 별로다. 2) 결과를 다 믿지는 마라. 3) AI 사용했다는 것을 밝히고 입력을 뭐라고 썼는지 첨부할 것. 4) 아무렇게나 가져다 쓰지 마라
-* "훈련이 안된 상태에서는, 모두가 AI를 잘못이용했다." (<- 여기에 대해서는 본문을 정독할 필요가 있겠다.)
-* "학생들은 AI의 정확도, 신뢰도, 편향 이슈와 우려에 대해 생각보다 빨리 이해했다."
-
-### 부작용 사례
-
-**국내**
-
-#### ChatGPT로 영문에세이 과제 대필, 전원 0점 (기사, Feb 9, 2023)
-* 국내 수도권의 한 국제학교 사례
-* [기사링크](https://www.donga.com/news/Society/article/all/20230209/117801590/1)
-
-**해외**
 
 
 ## 향후 공학교육에서 ChatGPT(또는 유사 AI 서비스) 활용 방안
